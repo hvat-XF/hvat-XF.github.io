@@ -1,0 +1,22 @@
+table{
+	border-style: outset;
+	border-color: blue;
+	border-width: 5px;
+	align-content: center;
+}
+
+body{
+	background-image: url(https://cdn.wallpapersafari.com/74/84/vAp1SG.jpg);
+}
+td{
+	border-style: outset;
+	border-color: blue;
+	border-width: 5px;
+}
+dl{
+	font-weight: bold;
+	font-size: 16px;
+}
+ul{
+	font-size: 12px;
+}
