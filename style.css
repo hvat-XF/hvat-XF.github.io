@@ -20,3 +20,7 @@ dl{
 ul{
 	font-size: 12px;
 }
+body{
+	align-self: center;
+	align-content: center;
+}
