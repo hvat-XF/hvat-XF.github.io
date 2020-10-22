@@ -7,6 +7,8 @@ table{
 
 body{
 	background-image: url(https://cdn.wallpapersafari.com/74/84/vAp1SG.jpg);
+	border: 12px;
+	boreder-color: white;
 }
 td{
 	border-style: outset;
@@ -39,4 +41,3 @@ h2{
 h3{
 	align: center;
 }
-
