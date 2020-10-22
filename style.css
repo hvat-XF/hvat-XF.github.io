@@ -2,13 +2,12 @@ table{
 	border-style: outset;
 	border-color: blue;
 	border-width: 5px;
-	align-content: center;
 }
 
 body{
 	background-image: url(https://cdn.wallpapersafari.com/74/84/vAp1SG.jpg);
 	border: 12px;
-	boreder-color: white;
+	border-color: white;
 }
 td{
 	border-style: outset;
@@ -19,28 +18,48 @@ dl{
 	font-weight: bold;
 	font-size: 16px;
 }
-ul{
-	font-size: 12px;
-}
-body{
-	align-self: center;
-	align-content: center;
-}
 div{
-	align: center;
 	background-color: #DCDCDA;
 	border: solid;
 	border-color: #6e6b6a;
 	overflow: auto;
-	width: 25%;
+	width: 300px;
+	height: 500px;
+	float: left;
+	margin: 10px;
+	border-radius: 5px;
+	margin-left: 100px;
+}
+div.big{
+	margin-left: 15%;
+	width: 70%;
+	border: none;
+	background: none;
+	height: auto;
+}
+div.lessbig{
+	margin-left: 15%;
+	width: 70%;
+	border: none;
+	background: none;
+	height: auto;
+
 }
 h1{
-	align: center;
+	text-align: center;
 }
 h2{
-	align: center;	
+	text-align: center;
 }
 h3{
-	align: center;
+	text-align: center;
+	margin: 10px;
 }
-
+img.science{
+	height: 20%;
+	width: 40%;
+	margin-left: 30%;
+	border: solid;
+	border-radius: 2px;
+	border-color: #6e6b6a;
+}
