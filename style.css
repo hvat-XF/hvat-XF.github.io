@@ -31,6 +31,8 @@ div{
 	background-color: #DCDCDA;
 	border: solid;
 	border-color: #6e6b6a;
+	overflow: auto;
+	width: 25%;
 }
 h1{
 	align: center;
@@ -41,3 +43,4 @@ h2{
 h3{
 	align: center;
 }
+
